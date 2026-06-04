@@ -1,8 +1,6 @@
 # Redhook — AI Phishing Triage Engine
 
-> DecodeLabs Cybersecurity Internship · Project 3 · Batch 2026
-
-A professional-grade phishing triage platform built as part of the DecodeLabs Cybersecurity Industrial Training Kit. Redhook simulates a real SOC analyst workflow — paste any suspicious email and get an AI-powered threat verdict in seconds.
+A phishing triage platform built as part of the DecodeLabs Cybersecurity third project. Redhook simulates a real SOC analyst workflow — paste any suspicious email and get an AI-powered threat verdict in seconds.
 
 ---
 
@@ -78,7 +76,3 @@ redhook/
 - Zero UI library dependencies — all custom components with inline styles
 
 ---
-
-## Built By
-
-Made as part of the **DecodeLabs Industrial Training Kit** — Cybersecurity Track, Batch 2026.
